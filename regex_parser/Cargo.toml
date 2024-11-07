@@ -1,0 +1,7 @@
+[package]
+name = "regex_parser"
+version = "0.1.0"
+edition = "2021"
+description = "A parser for standard regular expressions based on a defined grammar for regex patterns."
+
+[dependencies]
